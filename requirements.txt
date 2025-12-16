@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+python-jose
+passlib[bcrypt]
+sqlalchemy
+pillow
+pytesseract
+pdf2image
+huggingface-hub
